@@ -33,4 +33,4 @@ But should be the same as before. Notice the opened documentation still shows th
 
 ## Workaround
 
-Run `cargo clean` (with `-p package` in bigger projects to avoid too expensive recompilation.
+Run `cargo clean` (with `-p package` in bigger projects to avoid too expensive recompilation).
